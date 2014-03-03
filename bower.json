@@ -1,0 +1,29 @@
+{
+  "name": "file-size",
+  "main": "index.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/Nijikokun/file-size",
+  "authors": [
+    "Nijiko Yonskai <nijikokun@gmail.com>"
+  ],
+  "description": "Lightweight filesize to human-readable / proportions w/o dependencies.",
+  "keywords": [
+    "filesize",
+    "file",
+    "size",
+    "bytes",
+    "human",
+    "readable",
+    "iec",
+    "si",
+    "jedec"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
